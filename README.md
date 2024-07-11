@@ -4,7 +4,7 @@ Python script for scraping HackerOne (H1) reports to easy reading and annotation
 
 ## Usage
 ```bash
-python3 h1reports.py
+python3 h1report.py
 ```
 **Don’t worry—if you don’t have time or instance to run it, you can simply check the output file `h1reports.txt`
 
